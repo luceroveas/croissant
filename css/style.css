@@ -1,12 +1,12 @@
 body {
-  background: red;
+  background: #f8e49c;
 }
 
 h1 {
   text-align: center;
-  color: white;
+  color: black;
 }
 
 a {
-  color: white;
+  color: green;
 }
